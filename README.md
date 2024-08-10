@@ -1,0 +1,1 @@
+This website is designed keeping in mind the ideas of e-commerce websites, with all the basic use cases of an e-commerce website. Use technologies such as html, css, javascript, springboot, mysql. The hierarchy includes 3 layers: Store, Customer, and Admin. To use the website you can read the Instructions for Use
