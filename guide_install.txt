@@ -1,0 +1,7 @@
+install java(jdk>=17)
+install mysql(recommend mysql_workbench)
+
+Đầu tiên, import smartshop.sql vào Database
+Sau đó:
+C1: vào IDE(tùy chọn) eclipse run file SmartshopApplication.java (có thể chỉnh sửa code)
+C2: chạy file smartshop\target\smartshop-0.0.1-SNAPSHOT.jar (không thể chỉnh sửa code)
